@@ -1,0 +1,18 @@
+
+*{
+    text-align: center;
+    /**height: 120px;*/
+    overflow: hidden;
+    border-radius: 41em;
+    padding: 0px 1px;
+    margin: 50px;
+    background-color: rgba(215, 215, 215, 0.818);
+ }
+
+html{
+    background-color: rgb(8, 135, 135);
+}
+
+.todo{
+    background-color: aqua;
+    }
